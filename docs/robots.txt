@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://how-to-login-to-ancestry-account.readthedocs.io/en/latest/sitemap.xml
